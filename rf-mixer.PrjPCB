@@ -1517,7 +1517,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NSPFHFHI
 
 [Document88]
-DocumentPath=rf-switch.PcbDoc
+DocumentPath=rf-mixer.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1534,7 +1534,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SVOXFQQF
 
 [Document89]
-DocumentPath=rf-switch.SchDoc
+DocumentPath=rf-mixer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
